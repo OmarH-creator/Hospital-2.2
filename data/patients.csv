@@ -1,0 +1,7 @@
+id,firstName,lastName,dateOfBirth,gender,contactNumber,address,bloodType,isAdmitted
+P105,Omar,Salem,1995-04-16,Unknown,,,Unknown,false
+P102,Hassan,Ramy,1995-04-16,Unknown,,,O+,false
+P101,Jane,Smith,1992-08-22,Unknown,,,A-,true
+P103,Mariam,Ramy,1995-04-14,Unknown,,,B+,false
+P104,Mariam,Gamgoum,1995-04-16,Unknown,,,AB+,false
+P106,Messi,Goat,1995-04-16,Unknown,,,O-,false

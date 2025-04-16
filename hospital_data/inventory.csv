@@ -1,0 +1,6 @@
+id,name,quantity,unitPrice,category,minQuantity
+MED001,Antibiotics,240,12.99,,10
+MED003,Bandages,5,4.25,,10
+EQP002,Thermometer,10,15.75,,10
+MED002,Pain Relievers,150,8.5,,10
+BOT001,Bottle,16,12.0,,10

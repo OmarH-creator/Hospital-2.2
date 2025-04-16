@@ -1,0 +1,47 @@
+id,firstName,lastName,dob,gender,contactNumber,address,admitted
+P104,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P126,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P103,Omar,Salem,1995-04-15,Unknown,,,false
+P125,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P106,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P128,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P105,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P127,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P100,John,Doe,1980-05-15,Male,555-123-4567,123 Main St; Springfield,false
+P122,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P144,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P121,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P143,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P102,Robert,Johnson,1975-12-03,Male,555-456-7890,789 Pine St; Springfield,false
+P124,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P101,Jane,Smith,1992-08-22,Female,555-987-6543,456 Oak Ave; Springfield,true
+P123,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P145,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P108,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P107,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P129,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P109,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P131,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P130,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P115,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P137,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P114,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P136,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P117,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P139,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P116,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P138,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P111,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P133,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P110,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P132,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P113,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P135,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P112,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P134,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P119,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false
+P118,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P140,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P120,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P142,John,Doe,1980-01-15,Male,123-456-7890,123 Main St,false
+P141,Jane,Smith,1985-05-20,Female,987-654-3210,456 Oak Ave,false

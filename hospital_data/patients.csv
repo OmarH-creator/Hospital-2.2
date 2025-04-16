@@ -1,0 +1,7 @@
+id,firstName,lastName,dob,gender,contactNumber,address,admitted
+P104,Mariam,Gamgoum,1995-04-16,Unknown,,,false
+P103,Mariam,Ramy,1995-04-14,Unknown,,,true
+P106,Messi,Goat,1995-04-16,Unknown,,,false
+P105,Salem,Elsayed,1995-04-16,Unknown,,,true
+P102,Hassan,Ramy,1995-04-16,Unknown,,,false
+P101,Jane,Smith,1992-08-22,Unknown,,,false

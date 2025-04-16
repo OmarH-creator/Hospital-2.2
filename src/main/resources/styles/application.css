@@ -1,0 +1,261 @@
+.root {
+    -fx-background-color: #f0f4f8;
+    -fx-font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+#titleLabel {
+    -fx-font-size: 28px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #2c3e50;
+    -fx-padding: 0 0 20px 0;
+}
+
+.button {
+    -fx-background-color: #3498db;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+    -fx-background-radius: 4px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 3, 0, 0, 1);
+}
+
+.button:hover {
+    -fx-background-color: #2980b9;
+}
+
+.button:pressed {
+    -fx-background-color: #1c6ea4;
+}
+
+#exitBtn {
+    -fx-background-color: #e74c3c;
+    -fx-min-width: 150px;
+    -fx-margin-top: 20px;
+}
+
+#exitBtn:hover {
+    -fx-background-color: #c0392b;
+}
+
+#mainMenuRoot {
+    -fx-spacing: 15px;
+    -fx-padding: 30px;
+    -fx-alignment: center;
+    -fx-background-color: white;
+    -fx-background-radius: 10px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.2), 10, 0, 0, 3);
+    -fx-max-width: 500px;
+}
+
+/* Inventory Screen Styles */
+#inventoryTable {
+    -fx-background-color: white;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 5, 0, 0, 2);
+}
+
+#inventoryTable .table-column {
+    -fx-alignment: CENTER-LEFT;
+    -fx-padding: 8px;
+}
+
+#inventoryTable .table-row-cell:selected {
+    -fx-background-color: #d6eaf8;
+    -fx-text-fill: #2c3e50;
+}
+
+#searchField {
+    -fx-padding: 7px;
+    -fx-background-radius: 4px;
+    -fx-border-color: #bdc3c7;
+    -fx-border-radius: 4px;
+}
+
+#statusLabel {
+    -fx-text-fill: #7f8c8d;
+    -fx-font-style: italic;
+}
+
+#addButton, #searchButton, #lowStockButton {
+    -fx-background-color: #3498db;
+}
+
+#deleteButton {
+    -fx-background-color: #e74c3c;
+}
+
+#addStockButton {
+    -fx-background-color: #2ecc71;
+}
+
+#removeStockButton {
+    -fx-background-color: #f39c12;
+}
+
+#backButton {
+    -fx-background-color: #7f8c8d;
+    -fx-min-width: 150px;
+}
+
+.dialog-pane {
+    -fx-background-color: #f0f4f8;
+}
+
+.dialog-pane .header-panel {
+    -fx-background-color: #3498db;
+}
+
+.dialog-pane .header-panel .label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-padding: 7px;
+    -fx-background-radius: 4px;
+    -fx-border-color: #bdc3c7;
+    -fx-border-radius: 4px;
+}
+
+.text-field:focused {
+    -fx-border-color: #3498db;
+}
+
+/* Patient Registration Screen Styles */
+#patientsTable {
+    -fx-background-color: white;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 5, 0, 0, 2);
+}
+
+#patientsTable .table-column {
+    -fx-alignment: CENTER-LEFT;
+    -fx-padding: 8px;
+}
+
+#patientsTable .table-row-cell:selected {
+    -fx-background-color: #d6eaf8;
+    -fx-text-fill: #2c3e50;
+}
+
+#registerButton {
+    -fx-background-color: #2ecc71;
+}
+
+#registerButton:hover {
+    -fx-background-color: #27ae60;
+}
+
+#editButton {
+    -fx-background-color: #3498db;
+}
+
+#admitDischargeButton {
+    -fx-background-color: #e67e22;
+}
+
+#admitDischargeButton:hover {
+    -fx-background-color: #d35400;
+}
+
+.date-picker {
+    -fx-background-color: white;
+    -fx-background-radius: 4px;
+    -fx-border-color: #bdc3c7;
+    -fx-border-radius: 4px;
+}
+
+.date-picker .arrow-button {
+    -fx-background-color: #3498db;
+    -fx-background-radius: 0 4px 4px 0;
+}
+
+.date-picker .arrow-button .arrow {
+    -fx-background-color: white;
+}
+
+.combo-box {
+    -fx-background-color: white;
+    -fx-background-radius: 4px;
+    -fx-border-color: #bdc3c7;
+    -fx-border-radius: 4px;
+    -fx-padding: 0;
+}
+
+.combo-box .arrow-button {
+    -fx-background-color: #3498db;
+    -fx-background-radius: 0 4px 4px 0;
+}
+
+.combo-box .arrow-button .arrow {
+    -fx-background-color: white;
+}
+
+.combo-box .list-cell {
+    -fx-padding: 6px;
+}
+
+/* Appointment Scheduling Screen Styles */
+#appointmentsTable {
+    -fx-background-color: white;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 5, 0, 0, 2);
+}
+
+#appointmentsTable .table-column {
+    -fx-alignment: CENTER-LEFT;
+    -fx-padding: 8px;
+}
+
+#appointmentsTable .table-row-cell:selected {
+    -fx-background-color: #d6eaf8;
+    -fx-text-fill: #2c3e50;
+}
+
+#scheduleButton {
+    -fx-background-color: #2ecc71; /* Green */
+}
+
+#scheduleButton:hover {
+    -fx-background-color: #27ae60;
+}
+
+#rescheduleButton {
+    -fx-background-color: #f39c12; /* Orange */
+}
+
+#rescheduleButton:hover {
+    -fx-background-color: #d35400;
+}
+
+#cancelButton {
+    -fx-background-color: #e74c3c; /* Red */
+}
+
+#cancelButton:hover {
+    -fx-background-color: #c0392b;
+}
+
+#completeButton {
+    -fx-background-color: #3498db; /* Blue */
+}
+
+#completeButton:hover {
+    -fx-background-color: #2980b9;
+}
+
+#refreshButton {
+    -fx-background-color: #9b59b6; /* Purple */
+}
+
+#refreshButton:hover {
+    -fx-background-color: #8e44ad;
+}
+
+#datePicker {
+    -fx-min-width: 150px;
+}
+
+#statusFilterComboBox {
+    -fx-min-width: 150px;
+} 
